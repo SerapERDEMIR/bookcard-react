@@ -16,4 +16,4 @@ This React application is a simple book tracking app designed for users to manag
 * CSS
 
 
-<img src="\bookcard\public"   />
+<img src="public/book.gif"   />

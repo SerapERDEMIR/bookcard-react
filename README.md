@@ -1,4 +1,5 @@
-# This React application is a simple book tracking app designed for users to manage their books.
+# bookcard CRUD react
+This React application is a simple book tracking app designed for users to manage their books.
 
 # Features:
 * Add Book
@@ -15,4 +16,4 @@
 * CSS
 
 
-<img src="/public/book.gif"   />
+<img src="\EGITIM\bookcard\public"   />

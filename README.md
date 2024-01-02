@@ -16,4 +16,4 @@ This React application is a simple book tracking app designed for users to manag
 * CSS
 
 
-<img src="\EGITIM\bookcard\public"   />
+<img src="\bookcard\public"   />
